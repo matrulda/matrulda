@@ -5,4 +5,4 @@
 - **Player name**: Matilda
 - **Race**: Human
 - **Alignment**: Lawful good
-- **Languages**: Common, Python, Nextflow, Perl 
+- **Languages**: Common, Python, R, Nextflow, Perl
