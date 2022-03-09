@@ -1,6 +1,6 @@
 ### Character name: Matrulda
 
-- **Class**: Bioinformatician, lvl 6
+- **Class**: Bioinformatician: lvl 5, System developer: lvl 3
 - **Background**: Suburban adventurer
 - **Player name**: Matilda
 - **Race**: Human
