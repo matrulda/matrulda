@@ -4,5 +4,5 @@
 - **Background**: Suburban adventurer
 - **Player name**: Matilda
 - **Race**: Human
-- **Alignment**: Lawful good
+- **Alignment**: Neutral good
 - **Languages**: Common, Python, R, Nextflow, Perl
